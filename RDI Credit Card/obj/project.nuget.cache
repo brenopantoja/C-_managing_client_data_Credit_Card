@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "1X/VT7x/HAhYSgzpEK2IhcHBZFUFqjMD2US6WQVOJ6zhUE/NlxiPGu/k6liyftSwAd4FTgaoPy39Qe3nIrl0OA==",
+  "success": true,
+  "projectFilePath": "D:\\RDI software Company\\examples\\RDI Breno Pantoja\\RDI Credit Card\\RDI Credit Card\\RDI Credit Card.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breno\\.nuget\\packages\\rhinomocks\\3.6.1\\rhinomocks.3.6.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'RhinoMocks 3.6.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "RhinoMocks",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RhinoMocks/3.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net/Rhino.Mocks.dll": {}
+        },
+        "runtime": {
+          "lib/net/Rhino.Mocks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RhinoMocks/3.6.1": {
+      "sha512": "0HjdR7PVVUDz9Db5cLzU0Dquay8MhoCoZ8PJRZOo10Iysq4m+mjl2aaxc4eWztvZ6S1v/NYW5xv1qul0ToN21w==",
+      "type": "package",
+      "path": "rhinomocks/3.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/Rhino.Mocks.dll",
+        "lib/net/Rhino.Mocks.xml",
+        "rhinomocks.3.6.1.nupkg.sha512",
+        "rhinomocks.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "RhinoMocks >= 3.6.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\breno\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\RDI software Company\\examples\\RDI Breno Pantoja\\RDI Credit Card\\RDI Credit Card\\RDI Credit Card.csproj",
+      "projectName": "RDI Credit Card",
+      "projectPath": "D:\\RDI software Company\\examples\\RDI Breno Pantoja\\RDI Credit Card\\RDI Credit Card\\RDI Credit Card.csproj",
+      "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
+      "outputPath": "D:\\RDI software Company\\examples\\RDI Breno Pantoja\\RDI Credit Card\\RDI Credit Card\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "RhinoMocks": {
+            "target": "Package",
+            "version": "[3.6.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'RhinoMocks 3.6.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "RhinoMocks",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

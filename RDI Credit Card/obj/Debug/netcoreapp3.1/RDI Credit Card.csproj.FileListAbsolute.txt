@@ -1,0 +1,18 @@
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.csproj.AssemblyReference.cache
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI_Credit_Card.Form1.resources
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.csproj.GenerateResource.cache
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.GeneratedMSBuildEditorConfig.editorconfig
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.AssemblyInfoInputs.cache
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.AssemblyInfo.cs
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.csproj.CoreCompileInputs.cache
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\bin\Debug\netcoreapp3.1\RDI Credit Card.exe
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\bin\Debug\netcoreapp3.1\RDI Credit Card.deps.json
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\bin\Debug\netcoreapp3.1\RDI Credit Card.runtimeconfig.json
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\bin\Debug\netcoreapp3.1\RDI Credit Card.runtimeconfig.dev.json
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\bin\Debug\netcoreapp3.1\RDI Credit Card.dll
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\bin\Debug\netcoreapp3.1\RDI Credit Card.pdb
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.dll
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.pdb
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.genruntimeconfig.cache
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\bin\Debug\netcoreapp3.1\Rhino.Mocks.dll
+D:\RDI software Company\examples\RDI Breno Pantoja\RDI Credit Card\RDI Credit Card\obj\Debug\netcoreapp3.1\RDI Credit Card.csproj.CopyComplete
